@@ -15,10 +15,6 @@ $ docker run --rm  --env host=mysql-server-ip --env user=user of the database --
 
 In order to run this container you'll need docker installed.
 
-* [Windows](https://docs.docker.com/windows/started)
-* [OS X](https://docs.docker.com/mac/started/)
-* [Linux](https://docs.docker.com/linux/started/)
-
 Also you need to run mysql container from mysql image
 * [mysql](https://hub.docker.com/_/mysql)
 
