@@ -10,6 +10,8 @@ To start a container from this image
 
 $ docker run --rm  --env host=mysql-server-ip --env user=user of the database --env  port=port-number-mysql-server --env password=password-for-database-user --env database=name-of-database -p 5000:5000  flask_api:v1
 
+The app soucre code will be in /opt/sourceCode
+
 ### Prerequisities
 
 
